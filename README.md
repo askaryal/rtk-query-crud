@@ -1,6 +1,6 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Example project using react redux Toolkit, query, json-server
 
 Currently, two official plugins are available:
 
